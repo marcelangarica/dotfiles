@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = marcela.mlm@hotmail.com
+	name = Marcela Langarica Mejia
